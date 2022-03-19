@@ -1,4 +1,4 @@
-# Home-Assistant---guizmos-Dashboard
+# Home-Assistant Dashboard - by Guizmos
 Lovelace by Guizmos
 
 ![1](https://user-images.githubusercontent.com/48725258/159139939-73510782-9b2d-4dae-8996-af8c0f2d4a3b.jpeg)
