@@ -1,14 +1,7 @@
 neon: 
   # Text
-#  text-color: 'rgba(255, 255, 255, 0.8)' 
-#  primary-text-color: 'var(--text-color)'
-#  text-primary-color: 'var(--text-color)'
   secondary-text-color: "#74e5f2"
-#  primary-color: 'var(--accent-color)'
-#  text-medium-light-color: '#A0A2A8'
-#  text-medium-color: '#80828A'
-#  disabled-text-color: '#626569'
-  
+ 
     # Text Noctis
   text-color: '#ffffff' 
   primary-text-color: 'var(--text-color)'
@@ -28,43 +21,17 @@ neon:
   input-idle-line-color: "var(--secondary-text-color)"
   input-hover-line-color: "var(--primary-text-color)"
   
-  # Text Fields an Dropdown
-#  mdc-text-field-fill-color: 'var(--background-color)'
-#  mdc-text-field-ink-color: 'var(--text-color)'
-#  mdc-select-fill-color: 'var(--background-color)'
-#  mdc-text-field-label-ink-color: 'var(--secondary-text-color)'
-#  input-fill-color: 'var(--background-color)'
-#  input-ink-color: 'var(--text-color)'
-#  input-label-ink-color: 'var(--text-color)'
-#  input-disabled-fill-color: 'var(--background-color)'
-#  input-disabled-ink-color: 'var(--disabled-text-color)'
-#  input-disabled-label-ink-color: 'var(--disabled-text-color)'
-#  input-idle-line-color: 'var(--background-color)'
-#  input-dropdown-icon-color: 'var(--secondary-text-color)'
-#  input-hover-line-color: 'var(--primary-color)'
-#  code-editor-background-color: '#222c40'
-#  codemirror-property: 'var(--accent-color)'
-  
   # Main Colors
-#  app-header-background-color: black
-#  app-header-background-color: '#242e42'
   app-header-background-color: '#132c41'
-#  accent-color: '#74e5f2'
   accent-color: '#1A89F5'
 
   # Background Noctis
   background-image: "center / cover no-repeat fixed url(/local/color5.png)"
   lovelace-background: var(--background-image)
   background-color: '#20293c'
-#  primary-background-color: 'var(--background-color)'
-#  background-color-2: '#20293c' 
-#  secondary-background-color: 'none'
-#  markdown-code-background-color: 'var(--background-color)'
 
   # Background
   primary-background-color: radial-gradient(circle, hsla(231, 49%, 68%, 1) 0%, hsla(231, 76%, 59%, 1) 100%)
-#  background-color: "#404b5b"
-#  background-color: '#132c41'
   background-color-2: 'var(--background-color)'
   secondary-background-color: 'var(--background-color)'
   markdown-code-background-color: "#465d72"
