@@ -9,6 +9,7 @@ Lovelace by Guizmos
 ![6](https://user-images.githubusercontent.com/48725258/159139952-27da6ea7-8551-4137-80bb-04b34b0de26a.jpeg)
 ![7](https://user-images.githubusercontent.com/48725258/159139953-c60c3589-50f2-4147-a565-8f4e48c46c30.jpeg)
 
+Ce dashboard est adapté pour les téléphones. 
 Dashboard_Guizmos.txt :
 
 - Créer un nouveau dashboard
